@@ -1,7 +1,8 @@
-## Classification of Radio Signals into Pulsars and Non Pulsars using k Nearest Neighbours
+## Classification of Radio Signals into Pulsars and Non Pulsars using k-Nearest Neighbours
 
 
-A pulsar is a highly magnetized rotating neutron star that emits beams of electromagnetic radiation out of its magnetic poles.
+A **pulsar** is a highly magnetized rotating neutron star that emits beams of electromagnetic radiation out of its magnetic poles.
+![pulsar](https://github.com/user-attachments/assets/e2ad29a6-10ad-41fc-a630-88a5b2bf6ec3)
 
 Since pulsars rotate rapidly, the emission of a pulsar forms a pattern that repeats periodically. This emission pattern varies slightly with each rotation and is unique for a pulsar. Therefore, the signal from a pulsar is averaged over many rotations giving us the fold/integrated profile of a pulsar. Since the Integrated pulse profile is unique to a pulsar it is also called a pulsar’s fingerprint(Lyon, 2016).
 
