@@ -1,4 +1,4 @@
-## Classification of Radio Signals into Pulsars and Non Pulsars using k-Nearest Neighbours
+## Classification of Radio Signals into Pulsars and Non Pulsars using k-Nearest Neighbours 🌠
 
 
 A **pulsar** is a highly magnetized rotating neutron star that emits beams of electromagnetic radiation out of its magnetic poles.
